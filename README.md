@@ -6,8 +6,8 @@ The idea of the project is to use Golang as a back-end, to a site for a hostel w
 
 - Built in Go version 1.23
 
-- uses [chi router](https://github.com/go-chi/chi)
+- uses go-chi [chi router](https://github.com/go-chi/chi)
 
-- uses [SCS session management](https://github.com/alexedwards/scs)
+- uses alexedwards [SCS session management](https://github.com/alexedwards/scs)
 
-- uses [nosurf](https://github.com/justinas/nosurf)
+- uses justinas [nosurf](https://github.com/justinas/nosurf)
