@@ -10,4 +10,4 @@ The idea of the project is to use Golang as a back-end, to a site for a hostel w
 
 - uses [SCS session management](https://github.com/alexedwards/scs)
 
-- uses [nosurf](htpps://github.com/justinas/nosurf)
+- uses [nosurf](https://github.com/justinas/nosurf)
